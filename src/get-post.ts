@@ -8,7 +8,6 @@ async function main () {
             author: {
                 email: 'hello@email.com'
             },
-            id: 2
         },
         include: {
             author: {
